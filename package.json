@@ -1,0 +1,16 @@
+{
+  "name": "backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Krishnam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
